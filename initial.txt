@@ -3,3 +3,4 @@ This line is added on GitHub directly.
 Local change on main
 Change from b1
 Extra line in initial.txt from b3
+This line is from b2 branch
