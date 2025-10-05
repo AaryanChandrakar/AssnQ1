@@ -1,1 +1,3 @@
 This is b2 file
+Modification in b2_file from b3
+Another change in b2_file.txt from b3
