@@ -5,3 +5,5 @@ Change from b1
 Extra line in initial.txt from b3
 
 This line is merged from both b2 and b3
+
+Modified
